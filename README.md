@@ -14,6 +14,9 @@
 
  👨‍💻 All of my projects are available at [My Site](https://rashmikaperera.vercel.app/)
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=rashmika20041&color=04AA6D&style=flat)
+
+
  <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rashmika-perera-b49142291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmika-perera-b49142291/" height="30" width="40" /></a>
