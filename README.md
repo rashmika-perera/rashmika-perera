@@ -95,8 +95,10 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmika-perera&show_icons=true&locale=en&layout=compact&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjulamax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%" style="margin-right:20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmika-perera&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=400" width="45%" />
 </p>
+
 
 <br/>
 <hr/>
