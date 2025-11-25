@@ -10,21 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
-      # 2️⃣ Generate the snake GIF and SVG
-      - uses: Platane/snk@v1.6.1
-        id: snake-gif
+      - uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: rashmika-perera
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # 3️⃣ List files (debug)
       - run: ls -la dist
 
-      # 4️⃣ Push to output branch
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
