@@ -105,8 +105,9 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rashmika-perera/rashmika-perera/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/rashmika-perera/rashmika-perera/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
+
 
 
 <hr/>
