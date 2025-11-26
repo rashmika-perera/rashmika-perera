@@ -105,7 +105,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/rashmika-perera/rashmika-perera/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="assets/snake.svg" width="600" alt="snake animation" />
 </div>
 
 
