@@ -3,7 +3,7 @@ name: Generate Colorful Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *" # runs every 12 hours
-  workflow_dispatch: # manual trigger
+  workflow_dispatch: # allows manual trigger
 
 jobs:
   build:
@@ -19,8 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: rashmika-perera
-          outputs: |
-            dist/snake-colorful.svg?color_snake=ff0000,ff7f00,ffff00,00ff00,0000ff,4b0082,8b00ff&color_grid=0d1117&color_dots=#30363d
+          outputs: dist/snake-colorful.svg?color_snake=ff0000,ff7f00,ffff00,00ff00,0000ff,4b0082,8b00ff&color_grid=0d1117&color_dots=30363d
 
       # Upload artifact (new version)
       - name: Upload Artifact
