@@ -117,4 +117,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!&color=%2304AA6D">
 </h3>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=04AA6D&height=100&section=footer" width="100%" />
